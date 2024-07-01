@@ -1,0 +1,21 @@
+# Database connection file
+db_conn.php
+config.php
+
+# Environment files
+.env
+
+# Dependency directories
+/vendor/
+/node_modules/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
