@@ -19,6 +19,7 @@ function makeHeader($title) // Function to generate header - takes title paramet
         <!-- Fonts imported from https://fonts.google.com/specimen/Roboto -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="icon" type="image/x-icon" href="/favicon.ico">
         <link href="https://fonts.googleapis.com/css2?family=Roboto:ital@0;1&display=swap" rel="stylesheet">
     </head>
 HEAD;

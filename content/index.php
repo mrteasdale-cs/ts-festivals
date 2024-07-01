@@ -16,6 +16,7 @@ $pageTitle = "T's Top Picks";
             <div id="content">
 
                 <h1><?php echo $pageTitle ?></h1>
+                <p>Like this? <a href="https://github.com/mrteasdale-cs/ts-festivals.git"/>Fork from GitHub</a></p>
                 <section class="flex-parent-section">
 
 
